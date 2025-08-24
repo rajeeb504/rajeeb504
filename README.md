@@ -1,11 +1,11 @@
-## Hi there 👋
-
+<h1 align="center"> Hi 👋, I'm Rajeeb Ranjan Mohanta </h1>
+<h3 align="center"> Mathematician </h3>
 <!--
 **rajeeb504/rajeeb504** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working as a postdoctoral fellow.
+- 🔭 I’m currently working as a **postdoctoral fellow**.
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
