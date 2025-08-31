@@ -13,9 +13,33 @@
 ---
 
 ## 📂 Featured Projects
-- [Functional Analysis Notes](#) – LaTeX notes and problem sets  
-- [Random Matrix Simulations](#) – Python code for simulations & experiments  
-- [Topological Data Analysis in Python](#) – Experiments using TDA libraries  
+## 🚀 Projects
+
+Here are some of my research and coding projects (more in my repositories):
+
+### 🎓 Mathematics & Research
+- [**Functional Analysis Notes**](https://github.com/rajeeb504/functional-analysis-notes)  
+  LaTeX notes on Banach spaces, operator algebras, and von Neumann algebras.
+
+- [**Random Matrix Simulations**](https://github.com/rajeeb504/random-matrix-simulations)  
+  Python experiments with eigenvalue distributions, semicircle law, and free probability.
+
+- [**Free Fisher Information**](https://github.com/rajeeb504/free-fisher-info)  
+  Computational notebooks exploring Fisher information in free probability theory.
+
+### 📊 Data Science & Applications
+- [**Topological Data Analysis in Python**](https://github.com/rajeeb504/tda-python)  
+  Using persistent homology to study structure in real-world datasets.
+
+- [**Mathematical Finance Models**](https://github.com/rajeeb504/quant-finance)  
+  Simulations of stochastic processes, option pricing, and risk analysis.
+
+---
+
+### 📌 Featured Repositories
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=random-matrix-simulations&theme=tokyonight)](https://github.com/YOUR_USERNAME/random-matrix-simulations)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=tda-python&theme=tokyonight)](https://github.com/YOUR_USERNAME/tda-python)
 
 ---
 
