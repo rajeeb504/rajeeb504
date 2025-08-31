@@ -57,7 +57,7 @@ Here are some of my research and coding projects (more in my repositories):
 
 ## 📫 Connect with Me
 - [Google Scholar](https://scholar.google.com/citations?hl=en&user=1Tq5whwAAAAJ)  
-- [LinkedIn](#)  
+- [LinkedIn](www.linkedin.com/in/rajeeb-ranjan-mohanta-87168463)  
 - [Personal Website / CV](#)  
 
 ---
