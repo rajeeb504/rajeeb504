@@ -1,16 +1,20 @@
-<h1 align="center"> Hi 👋, I'm Rajeeb Ranjan Mohanta </h1>
-<h3 align="center"> Mathematician </h3>
-<!--
-**rajeeb504/rajeeb504** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Rajeeb 👋
 
-Here are some ideas to get you started:
+🎓 Ph.D. in Mathematics | Research in Functional Analysis & Random Matrix Theory  
+📊 Exploring applications in Topological Data Analysis and Machine Learning  
+📚 Interested in Quantitative Finance & Mathematical Statistics  
 
-- 🔭 I’m currently working as a **postdoctoral fellow**.
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🔭 Current Projects
+- Operator Algebras & Free Probability
+- Random Matrix Theory & Fisher Information
+- Applications of TDA in Data Science
+
+## 📂 Featured Repositories
+- [Functional Analysis Notes](link)
+- [Random Matrix Simulations](link)
+- [TDA Applications in Python](link)
+
+## 📫 Connect with Me
+- [Google Scholar](link) | [LinkedIn](link) | [Personal Website](link)
+
 
