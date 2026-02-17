@@ -17,21 +17,12 @@
 
 Here are some of my research and coding projects (more in my repositories):
 
-### 🎓 Mathematics & Research
-- [**Functional Analysis Notes**](https://github.com/rajeeb504/functional-analysis-notes)  
-  LaTeX notes on Banach spaces, operator algebras, and von Neumann algebras.
-
-- [**Random Matrix Simulations**](https://github.com/rajeeb504/random-matrix-simulations)  
-  Python experiments with eigenvalue distributions, semicircle law, and free probability.
-
-- [**Free Fisher Information**](https://github.com/rajeeb504/free-fisher-info)  
-  Computational notebooks exploring Fisher information in free probability theory.
 
 ### 📊 Quantitative Modeling
 - [**Risk-Analytics-Projects**](https://github.com/rajeeb504/risk-analytics-projects)
   
 
-- [**INR-Interest-Rate-Derivatives**](https://github.com/rajeeb504/inr-interest-rate-derivatives))  
+- [**INR-Interest-Rate-Derivatives**](https://github.com/rajeeb504/inr-interest-rate-derivatives)  
   
 
 ---
