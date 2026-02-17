@@ -13,9 +13,8 @@
 ---
 
 ## 📂 Featured Projects
-## 🚀 Projects
 
-Here are some of my research and coding projects (more in my repositories):
+Here are some of my coding projects (more in my repositories):
 
 
 ### 📊 Quantitative Modeling
