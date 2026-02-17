@@ -27,12 +27,12 @@ Here are some of my research and coding projects (more in my repositories):
 - [**Free Fisher Information**](https://github.com/rajeeb504/free-fisher-info)  
   Computational notebooks exploring Fisher information in free probability theory.
 
-### 📊 Data Science & Applications
-- [**Topological Data Analysis in Python**](https://github.com/rajeeb504/tda-python)  
-  Using persistent homology to study structure in real-world datasets.
+### 📊 Quantitative Modeling
+- [**Risk-Analytics-Projects**](https://github.com/rajeeb504/risk-analytics-projects)
+  
 
-- [**Mathematical Finance Models**](https://github.com/rajeeb504/quant-finance)  
-  Simulations of stochastic processes, option pricing, and risk analysis.
+- [**INR-Interest-Rate-Derivatives**](https://github.com/rajeeb504/inr-interest-rate-derivatives))  
+  
 
 ---
 
