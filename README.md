@@ -18,9 +18,10 @@ Here are some of my coding projects (more in my repositories):
 
 
 ### 📊 Quantitative Modeling
+- [**Monte-Carlo-Methods**](https://github.com/rajeeb504/Monte-Carlo-Methods/tree/main)
+
 - [**Risk-Analytics-Projects**](https://github.com/rajeeb504/risk-analytics-projects)
   
-
 - [**INR-Interest-Rate-Derivatives**](https://github.com/rajeeb504/inr-interest-rate-derivatives)  
   
 
